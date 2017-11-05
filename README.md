@@ -1,4 +1,4 @@
-# Tasks1.cpp
+# Task1.cpp
 #include<iostream>
 
 int main() {
